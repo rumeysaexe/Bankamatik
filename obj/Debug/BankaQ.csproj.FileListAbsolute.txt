@@ -1,0 +1,7 @@
+C:\Users\suley\source\repos\BankaQ\bin\Debug\BankaQ.exe.config
+C:\Users\suley\source\repos\BankaQ\bin\Debug\BankaQ.exe
+C:\Users\suley\source\repos\BankaQ\bin\Debug\BankaQ.pdb
+C:\Users\suley\source\repos\BankaQ\obj\Debug\BankaQ.csproj.AssemblyReference.cache
+C:\Users\suley\source\repos\BankaQ\obj\Debug\BankaQ.csproj.CoreCompileInputs.cache
+C:\Users\suley\source\repos\BankaQ\obj\Debug\BankaQ.exe
+C:\Users\suley\source\repos\BankaQ\obj\Debug\BankaQ.pdb
